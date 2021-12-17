@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "U16Jcxz1XHZpmZF/CQiHpo7F4ly9vvXtn5kS5Sp3Xt/ni7Oc3ioIQuXr13DuOYpJynHy6MBzSMEX5MOw9W1X9A==",
+  "success": true,
+  "projectFilePath": "Z:\\BSUIR\\3 КУРС\\5 семестр\\СПП\\examples\\4 task\\Vyachka.TestGenerator-master\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.0-4.final\\microsoft.codeanalysis.common.4.0.0-4.final.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.0-4.final\\microsoft.codeanalysis.csharp.4.0.0-4.final.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
